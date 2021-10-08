@@ -1,16 +1,7 @@
-# simple_authentication_app
+# Screenshots
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/79849311/136587501-1532f34c-4b48-4429-af5f-2142dcddb719.png" width="300">      <img src="https://user-images.githubusercontent.com/79849311/136587606-2801fb11-b32c-456e-a7f6-c28e0b94218a.png" width="300">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# About this App
+This is a simple Login and Sign Up UI built with flutter.
